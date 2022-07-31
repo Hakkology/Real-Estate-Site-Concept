@@ -1,0 +1,8 @@
+C:\Users\yildi\OneDrive\Desktop\My Files\Work\Programming\Ödev\HakanHW6\Hakan\Hakan.ConsoleApp.EmlakSitesi\bin\Debug\Hakan.ConsoleApp.EmlakSitesi.exe.config
+C:\Users\yildi\OneDrive\Desktop\My Files\Work\Programming\Ödev\HakanHW6\Hakan\Hakan.ConsoleApp.EmlakSitesi\bin\Debug\Hakan.ConsoleApp.EmlakSitesi.exe
+C:\Users\yildi\OneDrive\Desktop\My Files\Work\Programming\Ödev\HakanHW6\Hakan\Hakan.ConsoleApp.EmlakSitesi\bin\Debug\Hakan.ConsoleApp.EmlakSitesi.pdb
+C:\Users\yildi\OneDrive\Desktop\My Files\Work\Programming\Ödev\HakanHW6\Hakan\Hakan.ConsoleApp.EmlakSitesi\obj\Debug\Hakan.ConsoleApp.EmlakSitesi.csproj.AssemblyReference.cache
+C:\Users\yildi\OneDrive\Desktop\My Files\Work\Programming\Ödev\HakanHW6\Hakan\Hakan.ConsoleApp.EmlakSitesi\obj\Debug\Hakan.ConsoleApp.EmlakSitesi.csproj.SuggestedBindingRedirects.cache
+C:\Users\yildi\OneDrive\Desktop\My Files\Work\Programming\Ödev\HakanHW6\Hakan\Hakan.ConsoleApp.EmlakSitesi\obj\Debug\Hakan.ConsoleApp.EmlakSitesi.csproj.CoreCompileInputs.cache
+C:\Users\yildi\OneDrive\Desktop\My Files\Work\Programming\Ödev\HakanHW6\Hakan\Hakan.ConsoleApp.EmlakSitesi\obj\Debug\Hakan.ConsoleApp.EmlakSitesi.exe
+C:\Users\yildi\OneDrive\Desktop\My Files\Work\Programming\Ödev\HakanHW6\Hakan\Hakan.ConsoleApp.EmlakSitesi\obj\Debug\Hakan.ConsoleApp.EmlakSitesi.pdb
